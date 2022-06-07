@@ -17,4 +17,4 @@ Methods:
   - used Util.inputNum method to ask for how many attempts they have taken for the test. The user is allowed two attempts. This also fufills the try and catch exception rqeuirements. 
   - we also used the .get method for the comparisons. This is found in lines 123-152. 
 
-Author - <Ryan Gu and Mohammed Abdi>
+Author - Ryan Gu and Mohammed Abdi
