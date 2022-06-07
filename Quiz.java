@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.HashMap; //import Hashmap class
 import java.util.Scanner;
 
-public class Quiz{
+public class Quiz {
   public HashMap<String, String> QuestionSet;
   public HashMap<String, String> StudentResponses;
   public int repsonse1;
@@ -15,12 +15,12 @@ public class Quiz{
   public int repsonse8;
   public int repsonse9;
   public int repsonse10;
-  public int numTries; //if user has taken more than 2 tries, they can no longer retake
+  public int numTries; //if the user has taken more than two attempts, they can no longer retake
 
 
   
   public int score; //total of how many correct answers there are. For loop will add one to correctAnswers everytime there is a match. 
-  public String name; //username of the player
+  public String name; //the players username
   
 
   public Quiz()
